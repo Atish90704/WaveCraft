@@ -23,7 +23,7 @@ A desktop audio editor and signal-processing toolkit built with Python (Tkinter 
 1. Install Python 3.10+
 2. Install dependencies:
    ```
-   pip install numpy scipy soundfile sounddevice pydub librosa yt_dlp requests
+   pip install numpy scipy soundfile sounddevice pydub librosa requests
    ```
    (also needs `ffmpeg` on your system PATH for MP3/format conversion)
 3. Run:
